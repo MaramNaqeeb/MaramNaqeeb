@@ -26,4 +26,4 @@ I am a full stack developer trainee
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaramNaqeeb&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/MaramNaqeeb)  
- https://maramnaqeeb.github.io/
+
