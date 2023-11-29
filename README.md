@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Maram
+### My name is Maram Naqeeb
 
 - I am a Quality Assurance Specialist.
 - I am a full stack developer.
