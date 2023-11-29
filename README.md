@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### My name is Maram
 
+I am a Quality Assurance Specialist.
 I am a full stack developer.
 I have a bachelore's degree in English language and literature.
 
